@@ -1,0 +1,14 @@
+# MinecraftOptimizer also know as MineOptim
+# Plugin coded by luvtox
+# Condig version 0.0.1
+
+# =====================================================================================================
+# Packets Configurations
+
+# Whether the PacketLimiter is enabled (true or false)
+enabled: true
+
+# Maximum number of packets a player can send per second
+max-packets-per-second: 50
+
+# =====================================================================================================

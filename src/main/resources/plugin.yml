@@ -1,0 +1,5 @@
+name: mineoptim
+main: com.luvtox.Plugin
+version: 1.0-SNAPSHOT
+api-version: 1.17
+api: 1.17.1
